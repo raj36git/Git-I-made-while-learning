@@ -1,0 +1,2 @@
+second commit
+skipping the stage area
